@@ -13,9 +13,9 @@
 
 - 👯 I like contributing to **OpenSource Projects**
 
-- 👨‍💻 Visit **[My Profile](https://github.com/CoderLovely08)**
+- 👨‍💻 Visit **[My Profile](https://github.com/DHEERAJCodes08)**
 
-- 📫 How to reach me **lovelysharmaas0812@gmail.com**
+- 📫 How to reach me **dheerajprasad72@gmail.com**
 
 - :man_technologist: My recent project - **[A Home Plants Wikipedia - The GreenYard](https://greenyard.onrender.com/)**
 
@@ -53,10 +53,10 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderlovely08" alt="coderlovely08" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DHEERAJCodes08" alt="DHEERAJCodes08" /></a> </p>
   <br/>
-    <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="lilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderLovely08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="lilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderLovely08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DHEERAJCodes08/github-readme-stats"><img alt="lilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DHEERAJCodes08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DHEERAJCodes08/github-readme-stats"><img alt="lilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEERAJCodes08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/CoderLovely08/github-readme-activity-graph"><img alt="lilesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CoderLovely08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DHEERAJCodes08/github-readme-activity-graph"><img alt="lilesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DHEERAJCodes08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,10 +78,10 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/CoderLovely08/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=CoderLovely08">
+<a href="https://github.com/DHEERAJCodes08/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DHEERAJCodes08">
 </a>
-<a href="https://github.com/CoderLovely08?tab=followers"><img src="https://img.shields.io/github/followers/CoderLovely08?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/DHEERAJCodes08?tab=followers"><img src="https://img.shields.io/github/followers/DHEERAJCodes08?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--
 **DHEERAJCodes08/DHEERAJCodes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
