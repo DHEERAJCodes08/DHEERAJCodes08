@@ -71,10 +71,10 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/lovely-sharma-a54022214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lovely-sharma-a54022214" height="30" width="40" /></a>
-<a href="https://instagram.com/lovely_sharma0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lovely_sharma0812" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/computermozart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computermozart" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lovelysharmaas0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lovelysharmaas0812" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dheeraj-prasad-297b85271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lovely-sharma-a54022214" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dheeraj___prasad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lovely_sharma0812" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computermozart" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lovelysharmaas0812" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
