@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dheerajprasad72@gmail.com**
 
-- :man_technologist: My recent project - **[A Home Plants Wikipedia - The GreenYard](https://greenyard.onrender.com/)**
+- :man_technologist: My recent project - **[An AI Store with 100+ Tools - AI Express](https://greenyard.onrender.com/)**
 
 
 ## 🚀 Languages and Tools that I'm familiar with:
